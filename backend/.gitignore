@@ -1,0 +1,20 @@
+
+
+# Dependencias instaladas
+node_modules/
+
+# Variables de entorno
+.env
+
+# Archivos de registro
+*.log
+
+# Bases de datos locales
+*.sqlite
+*.sqlite3
+
+# Peticiones HTTP de prueba
+pruebas.http
+
+# Archivos temporales
+.DS_Store
